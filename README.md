@@ -144,7 +144,7 @@ This project is open source and available under the MIT License.
 For questions or support, reach out at:
 
 * **Email:** [oloostephen22@gmail.com](oloostephen22@gmail.com)
-* **GitHub:** [stephenlegacy](https://github.com/stephenlegacyio)
+* **GitHub:** [StephenLegacy](https://github.com/StephenLegacy)
 * **LinkedIn:** [STEPHEN OLOO](https://stephenoloolegacyio/in/yourprofile)
 
 ---
