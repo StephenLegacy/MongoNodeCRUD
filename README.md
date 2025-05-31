@@ -52,7 +52,7 @@ This project is a Node.js backend API demonstrating CRUD (Create, Read, Update, 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/mongoose-crud-api.git
+git clone https://github.com/StephenLegacy/MongoNodeCRUD.git
 cd mongoose-crud-api
 ```
 
